@@ -4,14 +4,14 @@ this includes an r script called run_analysis.R which uses a dataset from the UC
 .
 ###files required by run_analysis
 
-test/X_test.txt: test set
-train/X_train.txt:training set
-test/Y_test.txt: test labels
-train/Y_train.txt: training labels
-features.txt: a list of the features
-test/subject_test.txt: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
-train/subject_train.txt: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
-activity_labels.txt: Links to the class lables with their activity name.
+-test/X_test.txt: test set
+-train/X_train.txt:training set
+-test/Y_test.txt: test labels
+-train/Y_train.txt: training labels
+-features.txt: a list of the features
+-test/subject_test.txt: Each row identifies the -subject who performed the activity for each -window sample. Its range is from 1 to 30.
+-train/subject_train.txt: Each row identifies the -subject who performed the activity for each -window sample. Its range is from 1 to 30.
+-activity_labels.txt: Links to the class lables -with their activity name.
 
 ###run_analysis actions:
 
